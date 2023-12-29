@@ -68,6 +68,11 @@ const Portfolio = () => {
                     <div key = {id} className="shadow-md shadow-gray-600 rounded-lg">
                     <img src="" alt="" className="rounded-md duration-200
                     hover:scale-105"/>
+                    <div>
+                        <p className="flex justify-center px-8 ">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos ullam itaque voluptate obcaecati assumenda cumque recusandae fuga doloremque magni suscipit aut quibusdam illum nisi nihil numquam quidem sapiente pariatur ipsum nobis, enim praesentium impedit ad? Officiis, at! Quasi aut, optio, nostrum, nihil deleniti ut tempora maiores saepe magnam minima dicta!
+                        </p>
+                    </div>
                     <div className="flex items-center justify-center">
                         <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                             Demo

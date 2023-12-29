@@ -32,7 +32,7 @@ const Databases = () => {
         <div className="max-w-screen-lg mx-auto p-4 flex flex-col
         justify-center w-full h-1/2 text-white">
             <div>
-                <p className="flex justify-center py-6 text-2xl p-2">Databases</p>
+                <p className="flex justify-center py-6 text-2xl p-2">Databases and Software</p>
             </div>
             
             <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8
