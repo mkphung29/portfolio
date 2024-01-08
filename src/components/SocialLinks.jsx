@@ -13,7 +13,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30}/>
                 </>
             ), 
-            href: 'https://linkedin.com',
+            href: 'linkedin.com/in/madison-phung-1a2919228',
             style: 'rounded-tr-md'
         },
         {
