@@ -4,6 +4,7 @@ import css from '../images/css.png';
 import reactImage from '../images/react.png';
 import tailwind from '../images/tailwind.png';
 import nextjs from '../images/nextJS.png';
+import expressjs from '../images/expressJS.png';
 import nodejs from '../images/nodeJS.png';
 import bootstrap from '../images/bootstrap.png';
 import git from '../images/git.png';
@@ -50,12 +51,18 @@ const Technologies = () => {
         },
         {
             id: 7,
+            src: expressjs,
+            title: 'ExpressJS',
+            style: "shadow-white"
+        },
+        {
+            id: 8,
             src: bootstrap,
             title: 'Bootstrap',
             style: "shadow-purple-400"
         },
         {
-            id: 8,
+            id: 9,
             src: git,
             title: 'Git',
             style: "shadow-orange-600"

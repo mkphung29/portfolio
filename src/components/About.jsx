@@ -7,7 +7,7 @@ const About = () => {
     from-gray-800 to-black text-white">
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col
         justify-center w-full h-full">
-            <div className="pb-8 mt-20">
+            <div className="pb-8 mt-96">
                 <p className="text-4xl font-bold inline border-b-4
                 border-gray-500"> About Me</p>
             </div>
@@ -32,7 +32,7 @@ const About = () => {
             <div>
                 <img src={PP2} 
                 alt="my profile" 
-                className="rounded-2xl py-6 mb-60 mx-auto w-1/2 h-30 md:w-1/3 md:h-30"/>
+                className="rounded-2xl py-6 mb-96 mx-auto w-1/2 h-30 md:w-1/3 md:h-30"/>
             </div>
 
         </div>
