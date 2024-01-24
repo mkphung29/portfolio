@@ -23,7 +23,7 @@ const Portfolio = () => {
             src: tinder,
             title: 'Chicken Tinder',
             description: "Decide your dinner by using Chicken Tinder! With a tinder-like user interface, users can discover restaurants in the NYC area and swipe right on their next meal. This application utilizes the Yelp Fusion API to find restaurants for users. Users are given secure account authentication, can save their matched restaurants, and leave reviews for establishments they have tried.",
-            demoLink:  '',
+            demoLink:  'https://www.youtube.com/watch?v=H_DJQWap8pg',
             codeLink:  'https://github.com/mkphung29/chicken-tinder'
         },
         {
