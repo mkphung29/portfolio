@@ -4,8 +4,7 @@ import tinder from "../images/tinder.png";
 import football from "../images/football.png";
 import pokemon from "../images/pokemon.png";
 import tiger from '../images/tiger.png';
-import horseDerby from "../images/horseDerby.png";
-
+import places from '../images/places.png';
 
 const Portfolio = () => {
 
@@ -13,13 +12,21 @@ const Portfolio = () => {
         {
             id: 1,  
             src: golfStats,
-            title: 'Golf Stats Management App',
-            description: 'Elevate your golf game with my Golf Stats Management App—a tool designed for avid golfers seeking precision in performance tracking. This application empowers users to meticulously record and analyze their golfing adventures, providing valuable insights into their strengths and areas for improvement. Key features include course details and player statistics tracking, API integration and database connection, Google account integration, and personalized profiles.',
-            demoLink:  'https://www.youtube.com/watch?v=1moth46KYtA&t=1s',
-            codeLink:  'https://github.com/mkphung29/golf-stats-app',
+            title: 'Birdie Train',
+            description: 'Elevate your golf game with my golf stats management app—a tool designed for avid golfers seeking precision in performance tracking. This application empowers users to meticulously record and analyze their golfing adventures, providing valuable insights into their strengths and areas for improvement. Key features include course details and player statistics tracking, API integration and database connection, Google account integration, and personalized profiles.',
+            demoLink:  'https://birdietrain-c9hwl.ondigitalocean.app/',
+            codeLink:  'https://github.com/mkphung29/birdie-train',
         },
         {
             id: 2,  
+            src: places,
+            title: 'Places2Be',
+            description: "Finding your place on campus can be hard. Places2e is an ios app that allows NYU students to easily discover places around campus to socialize, study, and find hidden gems. You can create your account and then explore different places around NYU's campus using the map or discover page.",
+            demoLink:  'https://www.youtube.com/watch?v=xZwKXef8rUE&themeRefresh=1',
+            codeLink:  'https://github.com/mkphung29/places2be'
+        },
+        {
+            id: 3,  
             src: tinder,
             title: 'Chicken Tinder',
             description: "Decide your dinner by using Chicken Tinder! With a tinder-like user interface, users can discover restaurants in the NYC area and swipe right on their next meal. This application utilizes the Yelp Fusion API to find restaurants for users. Users are given secure account authentication, can save their matched restaurants, and leave reviews for establishments they have tried.",
@@ -27,7 +34,7 @@ const Portfolio = () => {
             codeLink:  'https://github.com/mkphung29/chicken-tinder'
         },
         {
-            id: 3,  
+            id: 4,  
             src: football,
             title: 'Fantasy Football Player Recommendations',
             description: "Need to dominate your fantasy football league? This Fantasy Football API utilizes Beautiful Soup to web scrape important player statistics and rank players based on their efficiency in generating Fantasy Football points. Users can access position rankings to help them decide who to draft for their teams.",
@@ -35,7 +42,7 @@ const Portfolio = () => {
             codeLink:  'https://github.com/mkphung29/fantasy-football'
         },
         {
-            id: 4,  
+            id: 5,  
             src: tiger,
             title: 'The Image of Tiger Woods',
             description: "A final project for my Sports, Race, and Politics class at NYU, the Image of Tiger Woods analyzes the legendary golfer's career through racial and cultural lenses. This was my first big project to demonstrate my skills in HTML and CSS.",
@@ -43,21 +50,13 @@ const Portfolio = () => {
             codeLink:  'https://github.com/mkphung29/tiger-woods-project'
         },
         {
-            id: 5,  
+            id: 6,  
             src: pokemon,
             title: 'Rock, Paper, Scissors (Pokemon Edition)',
             description: "An iteration of the classic Rock, Paper, Scissors game except you must pick the right Pokemon to win the battle!",
             demoLink:  'https://pokemon-rps.netlify.app/',
             codeLink:  'https://github.com/mkphung29/rock-paper-scissors' 
         },
-        {
-            id: 6,  
-            src: horseDerby,
-            title: 'Multiplication Math Derby',
-            description: "An educational game designed to help kids memorize their multiplication tables. Players must answer questions correctly to race their horse across the finish line!",
-            demoLink:  'https://www.youtube.com/watch?v=15qcZrJ0i7c',
-            codeLink:  'https://github.com/mkphung29/horseDerby-game?tab=readme-ov-file',
-        }
     ]
 
   return (
