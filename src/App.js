@@ -17,7 +17,6 @@ function App() {
       <Portfolio />
       <Experience />
       <Technologies />
-      <Databases />
       <Contact />
 
       <SocialLinks />
