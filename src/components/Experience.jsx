@@ -2,7 +2,6 @@ import React from 'react';
 import javascript from '../images/javascript.png';
 import java from '../images/java.png';
 import python from '../images/python.png';
-import sql from '../images/sql.png';
 
 
 const Experience = () => {
