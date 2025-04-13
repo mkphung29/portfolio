@@ -25,12 +25,6 @@ const Experience = () => {
             src: javascript,
             title: 'Javascript',
             style: "shadow-yellow-500"
-        },
-        {
-            id: 4,
-            src: sql,
-            title: 'SQL',
-            style: "shadow-orange-500 flex flex-col items-center"
         }
     ]
 
