@@ -14,7 +14,7 @@ const Portfolio = () => {
             src: golfStats,
             title: 'Birdie Train',
             description: 'Elevate your golf game with my golf stats management app—a tool designed for avid golfers seeking precision in performance tracking. This application empowers users to meticulously record and analyze their golfing adventures, providing valuable insights into their strengths and areas for improvement. Key features include course details and player statistics tracking, API integration and database connection, Google account integration, and personalized profiles.',
-            demoLink:  'https://birdietrain-c9hwl.ondigitalocean.app/',
+            demoLink:  'https://birdietrain-uoskq.ondigitalocean.app/',
             codeLink:  'https://github.com/mkphung29/birdie-train',
         },
         {
