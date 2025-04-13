@@ -18,7 +18,6 @@ function App() {
       <Technologies />
       <Contact />
 
-      <SocialLinks />
     </div>
   );
 }
