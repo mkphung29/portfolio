@@ -13,8 +13,8 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-10">
-                Hi there! My name is Madison Phung and I'm currently a 
-                student at New York University studying Computer Science. 
+                Hi there! My name is Madison Phung and I'm an upcoming 
+                graduate at New York University studying Computer Science. 
                 As an NYU Gallatin Student, my individualized study program
                 allows me to harness my technical skills in programming languages,
                 technologies, and full-stack development while also taking courses that
